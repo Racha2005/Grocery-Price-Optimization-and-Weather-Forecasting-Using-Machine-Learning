@@ -273,10 +273,40 @@ The projects use model evaluation and visual outputs to understand prediction pe
 - Uses accuracy and classification reports.
 - Displays confusion matrices to understand classification results.
 
+**Model Performance Comparison**
+
+![Model Accuracy Comparison](images/grocery/model_accuracy_comparison.png)
+
+**Classification Reports and Confusion Matrices**
+
+**Logistic Regression**
+
+![Logistic Regression Results](images/grocery/logistic_regression_results.png)
+
+**Decision Tree**
+
+![Decision Tree Results](images/grocery/decision_tree_results.png)
+
+**Random Forest**
+
+![Random Forest Results](images/grocery/random_forest_results.png)
+
+**Support Vector Machine (SVM)**
+
+![SVM Results](images/grocery/svm_results.png)
+
 **Weather Forecasting**
 - Evaluates temperature predictions using MAE, RMSE, and R².
 - Compares actual and predicted temperature values.
 - Uses residual distribution to examine prediction errors.
+
+**Actual vs Predicted Temperature Plot**
+
+![Actual vs Predicted Temperature](images/weather/actual_vs_predicted_temperature.png)
+
+**Residual Distribution Plot**
+
+![Residual Distribution](images/weather/residual_distribution.png)
 
 ---
 
